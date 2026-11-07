@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/kivy/audiostream/commit/69f6b100f1ea4e3982a1acf6bbb0804e31a2cd50",
       "git:hexsha": "69f6b100f1ea4e3982a1acf6bbb0804e31a2cd50",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T11:50:44.682754+00:00"
     }
   ]
 }
